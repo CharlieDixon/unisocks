@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@walletconnect/truffle-provider": "^1.4.4",
     "ethers": "^4.0.27",
     "http-proxy-middleware": "^0.19.1",
     "qrcode.react": "^0.9.3",
